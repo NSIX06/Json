@@ -1,0 +1,24 @@
+
+    {
+        "titulo": "JoJo's Bizarre Adventure",
+        "autor": "Hirohiko Araki",
+        "ano_publicacao_manga": 1987,
+        "ano_publicacao_do_anime": 2012,
+        "genero": "Ficção de Aventura, Drama, Mistério, Terror, Ação, Anime",
+        "disponivel_na_netflix": true,
+        "avaliacao": 9.0,
+        "tags": ["Fantasia", "Drama", "Ação", "Terror", "Luta", "Comédia"],
+    
+    
+    
+
+        "detalhes": {
+            "Streaming": "Netflix",
+            "Estúdio de animação": "David Production",
+            "Temporadas": 6,
+            "Episódios": 190,
+            "Total de Páginas": 25.142,
+            "Editora Brasileira": "Panini",
+            "Classificação": 18
+        }
+    }
