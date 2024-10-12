@@ -1,24 +1,73 @@
+[
+    {
+
+        "nome_filme": "Homem Aranha 2",
+        "diretor": "Sam Raimi",
+        "ano_estreia": 2004,
+        "genero": "Ficção de Aventura, Drama, Ação",
+        "disponivel_na_netflix": false,
+        "avaliacao": 8.5
+
+        },
+    
+    
+        {
+
+        "nome_filme": "Pinóquio",
+        "diretor": "Guillermo Del Toro",
+        "ano_estreia": 2022,
+        "genero": "Ficção de Aventura, Drama, Ação, Stop Motion",
+        "disponivel_na_netflix": true,
+        "avaliacao": 9.1
+    },
 
     {
-        "titulo": "JoJo's Bizarre Adventure",
-        "autor": "Hirohiko Araki",
-        "ano_publicacao_manga": 1987,
-        "ano_publicacao_do_anime": 2012,
-        "genero": "Ficção de Aventura, Drama, Mistério, Terror, Ação, Anime",
-        "disponivel_na_netflix": true,
-        "avaliacao": 9.0,
-        "tags": ["Fantasia", "Drama", "Ação", "Terror", "Luta", "Comédia"],
-    
-    
-    
 
-        "detalhes": {
-            "Streaming": "Netflix",
-            "Estúdio de animação": "David Production",
-            "Temporadas": 6,
-            "Episódios": 190,
-            "Total de Páginas": 25.142,
-            "Editora Brasileira": "Panini",
-            "Classificação": 18
+        "nome_serie": "Dexter",
+        "diretor": "James Manos, Jr.",
+        "ano_estreia": 2006,
+        "genero": "Ficção de Aventura, Drama, Ação, Comédia, Investigação, Suspense",
+        "disponivel_na_netflix": true,
+        "avaliacao": 8.8
+    },
+
+    {
+
+        "nome_serie": "JoJo's Bizarre Adventure",
+        "diretor": "Hiroyuki Omori",
+        "ano_estreia": 2012,
+        "genero": "Ficção de Aventura, Drama, Ação, Comédia",
+        "disponivel_na_netflix": true,
+        "avaliacao": 9.0
+    },
+
+    {
+        "nome_cliente": "Luiz Felipe Pablos Bugalho",
+        "email": "felipebugalho@gmail.com",
+        "senha": 1234,
+        "dt_nascimento": 2004,
+        "telefone": "98888-8888"
+    },
+
+    {
+        "nome_cliente": "Júlio César",
+        "email": "juliocesar@gmail.com",
+        "senha": 1234,
+        "dt_nascimento": 2005,
+        "telefone": "97777-7777"
+        },
+
+        {
+            "tipo_plano": "Premium",
+            "tipo_pagamneto": "débito",
+            "descrição": "Plano Premium com telas infifnitas e sem anúncio",
+            "valor_pano": 39.99
+        },
+
+        {
+            "tipo_plano": "Padrão",
+            "tipo_pagamneto": "crédito",
+            "descrição": "Plano Padrão com telas 4 telas e com anúncio",
+            "valor_pano": 19.99
         }
-    }
+]
